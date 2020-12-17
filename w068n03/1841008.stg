@@ -1,0 +1,4 @@
+OBJECT_BASE 1841008.btg
+OBJECT SKPD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -67.907464 3.861811 93.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -67.904880 3.845245 94.9 0.00
